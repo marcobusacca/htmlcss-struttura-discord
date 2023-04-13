@@ -28,6 +28,10 @@ body{
     }
 /* FINE HEADER */
 
+/* MAIN */
+
+/* FINE MAIN */
+
 /* UTILITIES */
     .section-1{
         width: 100%;
@@ -77,6 +81,19 @@ body{
         height: 400px;
         background-color: #EE82EE;
     }
+
+    .blue-col{
+        width: 60%;
+        height: 500px;
+        background-color: #1E90FF;
+    }
+
+    .pink-col{
+        width: 40%;
+        height: 500px;
+        background-color: #FFC0CB;
+    }
+
     /* TEXT ALIGN */
         .text-align-left{
             text-align: left;
