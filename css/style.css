@@ -91,6 +91,12 @@ body{
         background-color: #FFC0CB;
     }
 
+    .green-col{
+        width: 100%;
+        height: 800px;
+        background-color: #228B22;
+    }
+
     /* TEXT ALIGN */
         .text-align-left{
             text-align: left;
