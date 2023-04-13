@@ -33,22 +33,22 @@ body{
 /* FINE MAIN */
 
 /* UTILITIES */
-    .section-1{
+    .section-type1{
         width: 100%;
         padding: 15px 0px;
     }
 
-    .section-2{
+    .section-type2{
         width: 100%;
         padding: 50px 0px;
     }
 
-    .container-1{
+    .container-type1{
         width: 60%;
         margin: 0 auto;
     }
 
-    .container-2{
+    .container-type2{
         width: 48%;
         margin: 0 auto;
     }
