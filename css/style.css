@@ -28,10 +28,6 @@ body{
     }
 /* FINE HEADER */
 
-/* MAIN */
-
-/* FINE MAIN */
-
 /* UTILITIES */
     .section-type1{
         width: 100%;
@@ -107,4 +103,8 @@ body{
             text-align: right;
         }
     /* FINE TEXT ALIGN */
+
+    .bgcolor-grey{
+        background-color: #D3D3D3;
+    }
 /* FINE UTILITIES */
